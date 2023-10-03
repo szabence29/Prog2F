@@ -1,0 +1,3 @@
+Dreher,lager,4.5
+Heineken,lager,4.6
+Heineken_silver,lager,2.0
